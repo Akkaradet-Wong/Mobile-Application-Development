@@ -1,0 +1,47 @@
+# ==============================================================================
+# Git Ignore for Flutter Mobile Application Development Portfolio
+# ==============================================================================
+
+# Flutter & Dart Build and Cache
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/.pub-cache/
+**/.pub/
+
+# Android & Gradle Build Artifacts
+**/.gradle/
+**/local.properties
+**/GeneratedPluginRegistrant.java
+**/app/build/
+**/*.apk
+**/*.aab
+
+# iOS & macOS Ephemeral and Pods
+**/ios/Flutter/ephemeral/
+**/ios/Pods/
+**/ios/.symlinks/
+**/macos/Flutter/ephemeral/
+**/macos/Pods/
+
+# Windows & Linux Ephemeral
+**/windows/flutter/ephemeral/
+**/linux/flutter/ephemeral/
+
+# IDE and Editor Files
+**/.idea/
+**/.vscode/
+**/*.iml
+**/*.ipr
+**/*.iws
+
+# Exclude original unorganized folder to keep repository clean
+Flutter/
+_Flutter_backup_original/
+
+# Operating System & Logs
+*.log
+.DS_Store
+Thumbs.db
