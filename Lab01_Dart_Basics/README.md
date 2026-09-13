@@ -2,7 +2,6 @@
 
 > โปรแกรมทดสอบการทำงานพื้นฐานของภาษา Dart เรียนรู้การประกาศฟังก์ชันแบบ Named Parameters พร้อมกำหนดค่า required และการรันคำสั่งผ่าน Dart CLI
 
-![Lab Preview](../assets/screenshots/lab01_dart_basics.png)
 
 ---
 

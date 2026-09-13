@@ -2,7 +2,6 @@
 
 > ทำความเข้าใจโครงสร้างพื้นฐานของ Flutter Widget Tree, การจัดหน้าจอด้วย Scaffold, AppBar, Column และการประยุกต์ใช้ ThemeData.dark()
 
-![Lab Preview](../assets/screenshots/lab02_basic_widgets.png)
 
 ---
 

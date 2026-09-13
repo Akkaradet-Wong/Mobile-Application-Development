@@ -2,7 +2,6 @@
 
 > แอปพลิเคชันระบุตำแหน่งพิกัดดาวเทียม GPS แบบเรียลไทม์ผ่าน geolocator และเรนเดอร์แผนที่ OpenStreetMap แบบโต้ตอบได้ด้วย flutter_map
 
-![Lab Preview](../assets/screenshots/lab09_gps_map.png)
 
 ---
 

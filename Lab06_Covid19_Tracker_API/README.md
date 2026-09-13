@@ -2,7 +2,6 @@
 
 > แอปพลิเคชันดึงข้อมูลสถิติผู้ติดเชื้อ COVID-19 ผ่าน REST API สาธารณะ โดยใช้แพ็กเกจ http และแปลง JSON เป็น Object เพื่อแสดงผลในการ์ดสถิติ
 
-![Lab Preview](../assets/screenshots/lab06_covid_tracker.png)
 
 ---
 

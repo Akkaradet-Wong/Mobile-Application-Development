@@ -2,7 +2,6 @@
 
 > แอปพลิเคชัน Counter ขั้นสูงที่มาพร้อม 3 ฟังก์ชันการทำงาน (เพิ่มค่า, ลดค่า, และรีเซ็ตค่าเป็นศูนย์) พร้อมธีมสีแบบ Dynamic Seed Color ใน Material 3
 
-![Lab Preview](../assets/screenshots/lab04_counter_advanced.png)
 
 ---
 

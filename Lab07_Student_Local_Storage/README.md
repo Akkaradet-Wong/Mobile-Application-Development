@@ -2,7 +2,6 @@
 
 > ระบบจัดเก็บข้อมูลประวัตินักศึกษาลงใน Local Storage ของอุปกรณ์ด้วย path_provider และ dart:io สามารถบันทึกและดึงข้อมูลมาแสดงใน ListView ได้อย่างต่อเนื่อง
 
-![Lab Preview](../assets/screenshots/lab07_student_storage.png)
 
 ---
 

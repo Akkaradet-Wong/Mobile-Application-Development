@@ -39,7 +39,6 @@
 ### Lab 01: Dart Language Basics
 > การเขียนโปรแกรมภาษา Dart ขั้นพื้นฐาน การประกาศฟังก์ชันแบบ Named Parameters และการทดสอบผ่าน CLI
 
-![Lab 01 Preview](./assets/screenshots/lab01_dart_basics.png)
 
 - **หัวข้อที่ศึกษา:** Syntax พื้นฐานภาษา Dart, การประกาศฟังก์ชันแบบ `required` และ `named arguments`, การรันไฟล์ผ่าน Dart CLI
 - **ซอร์สโค้ดหลัก:** [`dart_application_1.dart`](./Lab01_Dart_Basics/bin/dart_application_1.dart)
@@ -50,7 +49,6 @@
 ### Lab 02: Flutter Basic Widgets & Themes
 > โครงสร้างพื้นฐานของ Flutter Application, การจัดวาง Widget ด้วย Scaffold, AppBar, Column และการตั้งค่า Dark Theme
 
-![Lab 02 Preview](./assets/screenshots/lab02_basic_widgets.png)
 
 - **หัวข้อที่ศึกษา:** โครงสร้าง Widget Tree, การจัด Layout ด้วย `Column` และ `Center`, การตั้งค่าธีมมืด `ThemeData.dark()`, การปรับแต่งสีพื้นหลังและ Typography
 - **ซอร์สโค้ดหลัก:** 
@@ -63,7 +61,6 @@
 ### Lab 03: Stateful Counter App
 > การจัดการสถานะ (State Management) ด้วย StatefulWidget และการใช้ปุ่มบวก-ลบ (Dual FilledButtons)
 
-![Lab 03 Preview](./assets/screenshots/lab03_stateful_counter.png)
 
 - **หัวข้อที่ศึกษา:** ความแตกต่างระหว่าง `StatelessWidget` และ `StatefulWidget`, วงจรชีวิตของ State, การเรียกใช้ `setState()` เพื่อ Re-render หน้าจอแบบ Reactive, การใช้ `FilledButton` ในการเพิ่มและลดค่า
 - **ซอร์สโค้ดหลัก:** [`lib/main.dart`](./Lab03_Stateful_Counter/lib/main.dart)
@@ -74,7 +71,6 @@
 ### Lab 04: Advanced Counter App
 > การพัฒนา Counter ขั้นสูงที่รองรับ 3 การทำงาน (เพิ่ม, ลด, และรีเซ็ตค่า) พร้อมธีมสี Material 3
 
-![Lab 04 Preview](./assets/screenshots/lab04_counter_advanced.png)
 
 - **หัวข้อที่ศึกษา:** Material Design 3 Color Schemes (`ColorScheme.fromSeed`), การจัดวางปุ่ม `FloatingActionButton` หลายตัวในแนวระนาบ (`Row`), ฟังก์ชันรีเซ็ตค่ากลับเป็นศูนย์
 - **ซอร์สโค้ดหลัก:** [`lib/main.dart`](./Lab04_Counter_Advanced/lib/main.dart)
@@ -85,7 +81,6 @@
 ### Lab 05: Notification Panel UI Clone
 > การออกแบบและพัฒนา UI โคลนแถบควบคุมแจ้งเตือนระดับมือถือ (Samsung / Android Quick Settings)
 
-![Lab 05 Preview](./assets/screenshots/lab05_notification_panel.png)
 
 - **หัวข้อที่ศึกษา:** การจัดหน้าจอ UI ที่มีความซับซ้อนสูง (330+ บรรทัด), Quick Settings Toggle Tiles (Wi-Fi, Bluetooth, Sound, Flashlight), แถบเลื่อนปรับความสว่าง (Brightness Slider), การแสดงรายการการแจ้งเตือนแบบแบ่งหมวดหมู่พร้อม Sub-messages
 - **ซอร์สโค้ดหลัก:** [`lib/main.dart`](./Lab05_Notification_Panel_Clone/lib/main.dart)
@@ -96,7 +91,6 @@
 ### Lab 06: COVID-19 Live Tracker API
 > การเชื่อมต่อ REST API แบบ Asynchronous เพื่อดึงข้อมูลสถิติผู้ติดเชื้อและรักษาหายมาแสดงผลในรูปแบบการ์ด
 
-![Lab 06 Preview](./assets/screenshots/lab06_covid_tracker.png)
 
 - **หัวข้อที่ศึกษา:** การใช้งานแพ็กเกจ `http` สำหรับยิงคำขอ GET Request, การแปลง JSON String เป็น Dart Model Object (`CovidData`), การเขียนฟังก์ชัน Asynchronous ด้วย `async` / `await`, การแสดงตัวเลขทางสถิติแยกระดับความสำคัญด้วยสี
 - **แพ็กเกจที่ใช้:** `http`, `dart:convert`
@@ -108,7 +102,6 @@
 ### Lab 07: Student Record Local Storage
 > ระบบบันทึกและอ่านข้อมูลประวัตินักศึกษาลงใน Local File System ของตัวเครื่องผ่าน `path_provider`
 
-![Lab 07 Preview](./assets/screenshots/lab07_student_storage.png)
 
 - **หัวข้อที่ศึกษา:** การทำงานกับไฟล์ในเครื่องผ่าน `dart:io`, การค้นหาไดเรกทอรีจัดเก็บไฟล์เอกสารด้วย `path_provider`, การรับค่าจากแบบฟอร์มด้วย `TextEditingController`, การโหลดและแสดงรายการประวัติใน `ListView`
 - **แพ็กเกจที่ใช้:** `path_provider`
@@ -120,7 +113,6 @@
 ### Lab 08: Camera & Gallery Saver App
 > การเข้าถึงฮาร์ดแวร์กล้องถ่ายรูป การแสดงภาพตัวอย่างแบบเรียลไทม์ การสั่นเตือน และการบันทึกภาพลงคลังภาพ
 
-![Lab 08 Preview](./assets/screenshots/lab08_camera_gallery.png)
 
 - **หัวข้อที่ศึกษา:** การขออนุญาตเข้าถึงกล้องและที่จัดเก็บข้อมูล (Permissions), การเริ่มต้นทำงานและควบคุมสตรีมกล้องด้วย `camera`, การสั่งจับภาพและบันทึกลงอัลบั้มด้วย `gallery_saver`, การตอบสนองด้วยการสั่นเตือนของเครื่องผ่าน `HapticFeedback`
 - **แพ็กเกจที่ใช้:** `camera`, `gallery_saver`, `flutter/services.dart`
@@ -132,7 +124,6 @@
 ### Lab 09: GPS Location & OpenStreetMap Tracker
 > การระบุพิกัดตำแหน่งของผู้ใช้งานผ่านสัญญาณดาวเทียม GPS และการแสดงผลบนแผนที่อินเทอร์แอคทีฟ
 
-![Lab 09 Preview](./assets/screenshots/lab09_gps_map.png)
 
 - **หัวข้อที่ศึกษา:** การขอ Permission และอ่านค่าพิกัดปัจจุบัน (Latitude, Longitude) ผ่าน `geolocator`, การเรนเดอร์กระเบื้องแผนที่ OpenStreetMap แบบเรียลไทม์ด้วย `flutter_map`, การปักหมุด Marker แสดงตำแหน่งปัจจุบัน
 - **แพ็กเกจที่ใช้:** `geolocator`, `flutter_map`, `latlong2`

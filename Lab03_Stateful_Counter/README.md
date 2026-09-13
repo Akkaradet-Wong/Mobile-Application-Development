@@ -2,7 +2,6 @@
 
 > การจัดการสถานะ (State Management) ของแอปด้วย StatefulWidget และการเปลี่ยนแปลงค่าตัวเลขผ่านการเรียก setState() ร่วมกับปุ่ม FilledButton
 
-![Lab Preview](../assets/screenshots/lab03_stateful_counter.png)
 
 ---
 

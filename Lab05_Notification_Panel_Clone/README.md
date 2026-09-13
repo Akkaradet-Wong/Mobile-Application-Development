@@ -2,7 +2,6 @@
 
 > การออกแบบหน้าจอ UI ขั้นสูงที่มีความซับซ้อน โดยโคลนหน้าจอแถบควบคุมและแจ้งเตือนของ Android / Samsung พร้อมปุ่ม Quick Settings และแถบเลื่อนปรับแสง
 
-![Lab Preview](../assets/screenshots/lab05_notification_panel.png)
 
 ---
 
