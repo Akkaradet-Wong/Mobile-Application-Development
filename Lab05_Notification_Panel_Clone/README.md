@@ -1,4 +1,4 @@
-# 📱 Lab 05: Notification Panel UI Clone
+# Lab 05: Notification Panel UI Clone
 
 > การออกแบบหน้าจอ UI ขั้นสูงที่มีความซับซ้อน โดยโคลนหน้าจอแถบควบคุมและแจ้งเตือนของ Android / Samsung พร้อมปุ่ม Quick Settings และแถบเลื่อนปรับแสง
 
@@ -6,18 +6,18 @@
 
 ---
 
-### 🌟 ฟีเจอร์หลัก (Key Features)
+### ฟีเจอร์หลัก (Key Features)
 - Quick Settings toggle tiles with active indicators
 - Custom Brightness slider
 - Grouped notification cards with sub-messages
 
 ---
 
-### 🚀 วิธีการทดสอบและรัน (How to Run)
+### วิธีการทดสอบและรัน (How to Run)
 ```bash
 flutter pub get
 flutter run
 ```
 
 ---
-[⬅️ กลับสู่หน้าหลัก Portfolio](../README.md)
+[กลับสู่หน้าหลัก Portfolio](../README.md)
